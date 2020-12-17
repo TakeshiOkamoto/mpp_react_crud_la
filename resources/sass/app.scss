@@ -1,0 +1,11 @@
+// Bootstrap以外はインポートしない
+// ※以下の2つをインポートするとBootstrapのフォント、デザイン(配色)が変わります。
+
+// Fonts
+//@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+//@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
